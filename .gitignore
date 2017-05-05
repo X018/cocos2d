@@ -27,3 +27,8 @@
 *.exe
 *.out
 *.app
+
+
+# Mine
+*.dmg
+tools/*.tar.gz
